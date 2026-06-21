@@ -1,5 +1,6 @@
 #pragma once
 
+#define AX2USB_DEBUG 0
 #if AX2USB_DEBUG
 #include <Arduino.h>
 
