@@ -6,7 +6,6 @@
 #include "ps2code.hpp"
 #include "util.h"
 
-#define AX2USB_DEBUG 1
 #include "debug.h"
 
 namespace ax2usb {

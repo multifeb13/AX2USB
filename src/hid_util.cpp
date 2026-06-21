@@ -3,7 +3,6 @@
 #include <iterator>
 #include "util.h"
 
-#define AX2USB_DEBUG 1
 #include "debug.h"
 
 namespace hid_util {
